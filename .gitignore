@@ -1,0 +1,6 @@
+pytest_cache
+.env
+weather_env
+app/__pycache__
+app/tests/__pycache__
+*.db
